@@ -3,6 +3,7 @@
 
 
  Olá, eu sou Vitoria Carolina e seja bem vindxs ao meu Github, tenho experiência com linguagens Typescript, Python, Javascript e manutenção de código PHP 😊👋
+Hello, I'm Vitoria Carolina and welcome to my Github, I have experience with Typescript, Python, Javascript languages ​​and PHP code maintenance😊👋
 
 ---
 ### Conecte-se comigo
