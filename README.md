@@ -2,11 +2,14 @@
   <img src="https://64.media.tumblr.com/tumblr_looucphObj1qfw3mwo1_500.gifv" width="65px" height="50px">  
     Welcome to my Portfolio
   <img src="https://64.media.tumblr.com/tumblr_looucphObj1qfw3mwo1_500.gifv" width="75px" height="50px"> 
+
 </h1>
 
 ### Connect with me
 [![Linkedin](	https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vitoria-carolina-7440611b3/)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/vicmaromba/)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/vitoriadeveloper/)
+[![HackerRank](https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white)](https://www.hackerrank.com/profile/vitoriacarolina1)
+<a href = "mailto:vitoriacarolinadantas@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"/>
  ##  About me
 
   <img src= "https://images.emojiterra.com/google/noto-emoji/unicode-15/color/svg/1f1fa-1f1f8.svg" width="20px" height="20px"/>
@@ -28,19 +31,22 @@ My name is  Vitoria Carolina 😊👋, I'm 24 years old, I live in the city of S
 
 ---
 
+<p>I have knowledge in: </p>
+<div align="left">
 
-## Technologies I use in my daily life
+[![Minhas Habilidades](https://skillicons.dev/icons?i=html,css,js,nodejs,react,git,figma,vscode,nextjs,typescript
+)](https://skillicons.dev)
 
- [![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E")](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
- [![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)](https://reactjs.org/)
- [![Next.js](https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)]()
- [![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)](https://nodejs.org)
- [![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)](https://expressjs.com)
- [![Mysql](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)](https://www.mysql.com/)
- [![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)](https://www.typescriptlang.org/pt/)
-[![Postgres](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)]()
-[![Fastify](https://img.shields.io/badge/fastify-202020?style=for-the-badge&logo=fastify&logoColor=white)]()
-[![php](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)]()
+  </div>
+<div align="left">
+
+[![Minhas Habilidades](https://skillicons.dev/icons?i=mysql,java,express,maven,nestjs,postgres,prisma,styledcomponents,tailwind,redux
+)](https://skillicons.dev)
+
+  </div>
+
+
+
 
 | [![Github Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vitoriadeveloper&layout=compact&theme=dracula&hide_border=True&line_height=20&PAT_1)](https://github.com/anuraghazra/github-readme-stats) | ![Vic GitHub stats](https://github-readme-stats.vercel.app/api?username=vitoriadeveloper&show_icons=true&theme=dracula)
 | ----------- | ----------- |
