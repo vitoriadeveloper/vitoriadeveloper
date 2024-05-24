@@ -15,12 +15,12 @@
   <img src= "https://images.emojiterra.com/google/noto-emoji/unicode-15/color/svg/1f1fa-1f1f8.svg" width="20px" height="20px"/>
 
 
-My name is  Vitoria Carolina 😊👋, I'm 24 years old, I live in the city of Salvador in the state of Bahia. I started to be interested in technology in 2021, since then I migrated from the area and started studying in 2022 when I entered the Bachelor's degree in Software Engineering, which I do the distance and I have graduation forecast for 2025/1. In my free time I like to play football⚽, enjoy good food in different restaurants🍜 and play games🎮.
+My name is Vitoria Carolina, I'm 25 years old, I was born in Salvador and I currently live in the state of São Paulo. I started to become interested in technology in 2021, since then I changed areas and started studying. I have experience in Javascript, PHP, Typescript and I am currently doing an internship at one of the largest banks in Latin America, where I use Java on the backend and Angular on the front-end in an MFE architecture.
 
   <img src= "https://images.emojiterra.com/google/noto-emoji/unicode-15/color/svg/1f1e7-1f1f7.svg" width="20px" height="20px"/>
 
 
-  Meu nome é Vitoria Carolina, tenho 24 anos,  moro na cidade de Salvador no estado da Bahia. Comecei a me interessar por tecnologia em 2021, desde então migrei de área e iniciei os estudos  em 2022 quando entrei para o curso de bacharelado em  Engenharia de Software, o qual faço a distancia e tenho previsão de formatura para 2025/1.  No meu tempo livre gosto de jogar futebol, apreciar boas comidas em restaurantes diferentes e jogar.
+ Meu nome é Vitoria Carolina, tenho 25 anos,  nasci em Salvador e atualmente moro no estado de São Paulo. Comecei a me interessar por tecnologia em 2021, desde então migrei de área e iniciei os estudos. Tenho experiência em Javascript, PHP, Typescript e atualmente faço estágio em um dos maiores bancos da america latina, o qual utilizo Java no backend e Angular no front-end em uma arquitetura de diversos MFE´s.
 
 <h2>Fun Fact 😂😊</h2> 
 <ul>
