@@ -34,13 +34,13 @@ My name is Vitoria Carolina, I'm 25 years old, I was born in Salvador and I curr
 <p>I have knowledge in: </p>
 <div align="left">
 
-[![Minhas Habilidades](https://skillicons.dev/icons?i=html,css,js,nodejs,react,git,figma,vscode,nextjs,typescript
+[![Minhas Habilidades](https://skillicons.dev/icons?i=html,css,js,nodejs,react,git,figma,vscode,nextjs,jest,angular,typescript
 )](https://skillicons.dev)
 
   </div>
 <div align="left">
 
-[![Minhas Habilidades](https://skillicons.dev/icons?i=mysql,java,express,maven,nestjs,postgres,prisma,styledcomponents,tailwind,redux
+[![Minhas Habilidades](https://skillicons.dev/icons?i=mysql,java,express,maven,nestjs,postgres,prisma,aws,scss,styledcomponents,tailwind,redux
 )](https://skillicons.dev)
 
   </div>
