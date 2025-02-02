@@ -20,7 +20,7 @@ My name is Vitoria Carolina, I am 25 years old, I was born in Salvador, and I cu
   <img src= "https://images.emojiterra.com/google/noto-emoji/unicode-15/color/svg/1f1e7-1f1f7.svg" width="20px" height="20px"/>
 
 
- Meu nome é Vitoria Carolina, tenho 25 anos, nasci em Salvador e atualmente moro no estado de São Paulo. Comecei a me interessar por tecnologia em 2021, desde então migrei de área e iniciei os estudos. Tenho experiência em Javascript, PHP, Typescript e atualmente faço estágio em um dos maiores bancos da América Latina, onde utilizo Java no backend e Angular no front-end, em uma arquitetura baseada em microserviços e diversos MFE's. Estou me aperfeiçoando continuamente em Angular, Java e AWS para expandir ainda mais minhas habilidades e conhecimentos na área de tecnologia.
+ Meu nome é Vitoria Carolina, tenho 25 anos, nasci em Salvador e atualmente moro no estado de São Paulo. Comecei a me interessar por tecnologia em 2021, desde então migrei de área e iniciei os estudos. Tenho experiência em Javascript, PHP, Typescript, Python, Angular, React e atualmente sou Engenheira de Software Jr em um dos maiores bancos da América Latina, onde utilizo python em lambdas e Angular no front-end, em uma arquitetura baseada em microserviços. Estou me aperfeiçoando continuamente em Angular, Python e AWS para expandir ainda mais minhas habilidades e conhecimentos na área de tecnologia.
 
 <h2>Fun Fact 😂😊</h2> 
 <ul>
@@ -34,7 +34,7 @@ My name is Vitoria Carolina, I am 25 years old, I was born in Salvador, and I cu
 <p>I have knowledge in: </p>
 <div align="left">
 
-[![Minhas Habilidades](https://skillicons.dev/icons?i=html,css,js,nodejs,react,git,figma,vscode,nextjs,jest,angular,typescript
+[![Minhas Habilidades](https://skillicons.dev/icons?i=html,css,js,nodejs,react,git,figma,vscode,nextjs,jest,angular,typescript,python
 )](https://skillicons.dev)
 
   </div>
