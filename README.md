@@ -7,9 +7,7 @@
 
 ### Connect with me
 [![Linkedin](	https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vitoria-carolina-7440611b3/)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/vitoriadeveloper/)
 [![HackerRank](https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white)](https://www.hackerrank.com/profile/vitoriacarolina1)
-<a href = "mailto:vitoriacarolinadantas@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"/>
  ##  About me
 
   <img src= "https://images.emojiterra.com/google/noto-emoji/unicode-15/color/svg/1f1fa-1f1f8.svg" width="20px" height="20px"/>
