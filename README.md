@@ -15,12 +15,12 @@
   <img src= "https://images.emojiterra.com/google/noto-emoji/unicode-15/color/svg/1f1fa-1f1f8.svg" width="20px" height="20px"/>
 
 
-My name is Vitoria Carolina, I am 25 years old, I was born in Salvador, and I currently live in the state of São Paulo. I became interested in technology in 2021, and since then, I have switched careers and started my studies. I have experience in Javascript, PHP, and Typescript, and I am currently interning at one of the largest banks in Latin America, where I use Java on the backend and Angular on the front-end in a microservices architecture with multiple MFE's. I am continuously improving my skills in Angular, Java, and AWS to further expand my knowledge and expertise in the field of technology.
+My name is Vitoria Carolina, I am 26 years old, I was born in Salvador, and I currently live in the state of São Paulo. I became interested in technology in 2021, and since then, I have switched careers and started my studies. I have experience in Javascript, PHP, and Typescript, and I am currently Software Engineer Mid-Level at one of the largest banks in Latin America, where I use Java, AWS, Python on the backend and Angular on the front-end in a microservices architecture with multiple MFE's. I am continuously improving my skills in Angular, Java, and AWS to further expand my knowledge and expertise in the field of technology.
 
   <img src= "https://images.emojiterra.com/google/noto-emoji/unicode-15/color/svg/1f1e7-1f1f7.svg" width="20px" height="20px"/>
 
 
- Meu nome é Vitoria Carolina, tenho 25 anos, nasci em Salvador e atualmente moro no estado de São Paulo. Comecei a me interessar por tecnologia em 2021, desde então migrei de área e iniciei os estudos. Tenho experiência em Javascript, PHP, Typescript, Python, Angular, React e atualmente sou Engenheira de Software Jr em um dos maiores bancos da América Latina, onde utilizo python em lambdas e Angular no front-end, em uma arquitetura baseada em microserviços. Estou me aperfeiçoando continuamente em Angular, Python e AWS para expandir ainda mais minhas habilidades e conhecimentos na área de tecnologia.
+ Meu nome é Vitoria Carolina, tenho 26 anos, nasci em Salvador e atualmente moro no estado de São Paulo. Comecei a me interessar por tecnologia em 2021, desde então migrei de área e iniciei os estudos. Tenho experiência em Javascript, PHP, Typescript, Python, Angular, React e atualmente sou Engenheira de Software Pleno em um dos maiores bancos da América Latina, onde utilizo python em lambdas e Angular no front-end, em uma arquitetura baseada em microserviços. Estou me aperfeiçoando continuamente em Angular, Python e AWS para expandir ainda mais minhas habilidades e conhecimentos na área de tecnologia.
 
 <h2>Fun Fact 😂😊</h2> 
 <ul>
