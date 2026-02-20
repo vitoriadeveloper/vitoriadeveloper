@@ -44,16 +44,13 @@ My name is Vitoria Carolina, I am 26 years old, I was born in Salvador, and I cu
   </div>
 
 
-
-
-| [![Github Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vitoriadeveloper&layout=compact&theme=dracula&hide_border=True&line_height=20&PAT_1)](https://github.com/anuraghazra/github-readme-stats) | ![Vic GitHub stats](https://github-readme-stats.vercel.app/api?username=vitoriadeveloper&show_icons=true&theme=dracula)
-| ----------- | ----------- |
-| ![Profile Views](https://komarev.com/ghpvc/?username=vitoriadeveloper&style=for-the-badge&color=037B7B) |
-
 ### Thank you for visiting, come back often and never give up on your dreams
 
 
 <img src="https://media3.giphy.com/media/huFnhMUn5fT7m07rKr/giphy.gif?cid=ecf05e471336nq2lgf9v8339aoi2k9msxlaib6b419nu5y90&ep=v1_gifs_search&rid=giphy.gif&ct=g"/>
+
+
+![Profile Views](https://komarev.com/ghpvc/?username=vitoriadeveloper&style=for-the-badge&color=037B7B)
 
 
 
